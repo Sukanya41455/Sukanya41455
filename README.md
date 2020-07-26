@@ -22,3 +22,4 @@ Engineering student, not from IIT, or NIT. I'm a girl with many dreams that I pr
 - 😄 Pronouns: <b>She/Her</b>
 - ⚡ Fun fact: You are never alone, your phone is listening to you. 😜
 
+![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=Sukanya41455&show_icons=true&theme=radical)
