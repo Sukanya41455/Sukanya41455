@@ -18,8 +18,8 @@ Engineering student, not from IIT, or NIT. I'm a girl with many dreams that I pr
 - 👯 I’m open for collaboration 👍
 - 🤔 I’m looking for help with <b>Competitive Coding and Projects</b>
 - 💬 I can code in: <b>C++, C, Python, HTML, CSS.</b>
-- 📫 How to reach me: https://www.linkedin.com/in/sukanya-sahoo , https://twitter.com/SukanyaSahoo20
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/sukanya-sahoo">LinkedIn</a> , <a href="https://twitter.com/SukanyaSahoo20">Twitter</a>
 - 😄 Pronouns: <b>She/Her</b>
 - ⚡ Fun fact: You are never alone, your phone is listening to you. 😜
 
-![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=Sukanya41455&show_icons=true&theme=radical)
+![Sukanya's Github Stats](https://github-readme-stats.vercel.app/api?username=Sukanya41455&show_icons=true&theme=radical)
