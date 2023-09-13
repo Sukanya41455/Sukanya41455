@@ -1,5 +1,4 @@
-##[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)  [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
-![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+![Made with love](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 <table>
   <tr>
     <td>You are visitor</td>
