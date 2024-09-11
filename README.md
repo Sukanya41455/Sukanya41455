@@ -8,8 +8,7 @@
 
 ### Hi I'm Sukanya 👋
 
-Engineering student, not from IIT, or NIT. I'm a girl with many dreams that I promised I would make it real one day. I appreciate your  constructive criticism and open for learning new stuffs. I love working on ML and Data science projects and looking forward to excel in these fields. 
-
+I’m a Machine Learning Engineer with interest in NLP, Computer Vsion, Signal Processing and Generative AI. I’ve had the chance to lead AI projects and contribute to innovative solutions at startups, making a real impact along the way.
 
 ### Welcome to my profile 😊
 
