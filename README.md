@@ -1,10 +1,10 @@
 ![Made with love](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
-<table>
+<!-- <table>
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/Sukanya41455/count.svg" alt="vistor count" height="50" /></td>
   </tr>
-</table>
+</table> -->
 
 ### Hi I'm Sukanya 👋
 
