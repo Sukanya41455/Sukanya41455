@@ -1,4 +1,3 @@
-![Made with love](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 <!-- <table>
   <tr>
     <td>You are visitor</td>
